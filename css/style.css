@@ -6,8 +6,8 @@
 header
 {background-image: url(../1.jpg);
 height: 150vh;
-background-size: cover;
-background-position:center left;
+background size: cover;
+background-position:center;
 }
 ul{
 	float: right;
